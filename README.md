@@ -41,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Figuring out the json importation and implementing the use of state
+Testing out json implementation for holding data and useState
 
 ## License
 
